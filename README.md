@@ -12,7 +12,7 @@
 
 #### Usage
 
-1.Run the script as Administrator.
+1.Download 'ShadowTempX.cmd' file and run it as administrator.
 
 #### Disclaimer
 
